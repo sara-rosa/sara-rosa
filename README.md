@@ -1,4 +1,4 @@
-- 👋 Eu sou a Sara
+
 - 🎯 Futura Desenvolvedora Web Full Stack
 - 🌱 Atualmente estudo JavaScript
 - 📫 Contate-me no email: sararosa0705@gmail.com
